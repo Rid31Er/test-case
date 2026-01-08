@@ -1,0 +1,13 @@
+# Docker volumes / data
+/data/
+/monitoring/grafana/data/
+
+# OS / IDE
+*.swp
+*.swo
+*.DS_Store
+.vscode/
+.idea/
+
+# Env files
+
