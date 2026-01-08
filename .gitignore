@@ -11,7 +11,7 @@
 *.DS_Store
 .vscode/
 .idea/
-/src/
+
 
 # Env files
 
