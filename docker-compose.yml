@@ -8,6 +8,8 @@ services:
     container_name: yii2-app
     volumes:
       - ./src:/var/www/html
+    ports:
+      - "3000:3000"
     depends_on:
       - db
 
