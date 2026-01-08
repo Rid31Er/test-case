@@ -1,6 +1,9 @@
 # Docker volumes / data
 /data/
-/monitoring/grafana/data/
+
+!monitoring/grafana/data/.gitkeep
+/monitoring/grafana/data/*
+
 
 # OS / IDE
 *.swp
